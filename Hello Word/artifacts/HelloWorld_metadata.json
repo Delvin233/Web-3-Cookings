@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"Hello Word/hello.sol": {
-			"keccak256": "0x0e1f5b9c679e753ea71a8a9f865a3d132eb6ce785f7f88ed65032ed8048f3800",
+			"keccak256": "0x01ca9f607521a24dd2726508aa17c706cb0f4e961176c347569f17394f94e2bd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a225c311d8db2c944e42c0a5623c81cd92ae9d64cd700e8f603acc70c1f999c1",
-				"dweb:/ipfs/QmYJbnex1vtu7wiFG44CMLzjiN7afg2jFrSHb9rJQ5usFN"
+				"bzz-raw://5142eed840e4ed941989ac27bc7780d4c6e14a2a2246c660fcdebe333e45da0d",
+				"dweb:/ipfs/QmU5CDkvPsLuGjYZczKc5iwdb3AJJK29uoB34oT9oNJ4Ki"
 			]
 		}
 	},
